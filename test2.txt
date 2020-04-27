@@ -1,0 +1,5 @@
+{Test Repeat}
+num := 20;
+repeat
+	num := id - 1;
+until num<10;
